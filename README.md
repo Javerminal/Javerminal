@@ -1,12 +1,12 @@
 # Javerminal
 A terminal I coded in java. FOR WINDOWS 10/11 ONLY!!!
 
-#DISCLAIMER!!!!
+# DISCLAIMER!!!!
 Javerminal is still in development!!! So its not realesed yet!!!! ):
 
-##How to use
+## How to use
 Just run the .bat file
 
-##Requirements
--Java Development Kit (JDK) for loading the code
--i think thats it
+## Requirements
+- Java Development Kit (JDK) for loading the code
+- i think thats it
